@@ -18,8 +18,8 @@ An application to analyze the startup ecosystem in the Czech Republic using web 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/czech-startup-analyzer.git
-   cd czech-startup-analyzer
+   git clone https://github.com/abhimattx/StartInsightCZ.git
+   cd StartInsightCZ
    ```
 
 2. Create a virtual environment and activate it:
@@ -90,4 +90,9 @@ An application to analyze the startup ecosystem in the Czech Republic using web 
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Author
+
+- **Abhishek Singh** - [GitHub Profile](https://github.com/abhimattx)
+
